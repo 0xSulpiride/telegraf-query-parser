@@ -1,4 +1,4 @@
-# Query parser middleware for [Telegraf](https://telegraf.js.org/#/)
+# Query parser middleware for <a href="https://telegraf.js.org/">Telegraf</a>
 
 ## Installation
 

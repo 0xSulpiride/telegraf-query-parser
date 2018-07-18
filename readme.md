@@ -10,7 +10,6 @@ $ npm install telegraf-query-parser
 
 ```js
 const Telegraf = require('telegraf')
-const RedisSession = require('telegraf-session-redis')
 
 const bot = new Telegraf(process.env.BOT_TOKEN)
 

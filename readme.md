@@ -1,4 +1,4 @@
-# Query parser middleware for telegraf
+# Query parser middleware for [Telegraf](https://telegraf.js.org/#/)
 
 ## Installation
 

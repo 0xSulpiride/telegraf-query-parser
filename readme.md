@@ -1,4 +1,4 @@
-# Query parser middleware for telegarf
+# Query parser middleware for telegraf
 
 ## Installation
 

@@ -3,6 +3,10 @@
   "description": "Query parser for telegraf.js",
   "version": "1.1.2",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marie-fourier/telegraf-query-parser.git"
+  },
   "keywords": [
     "telegram bot",
     "telegraf",
@@ -12,6 +16,7 @@
     "middleware"
   ],
   "author": "marie-fourier <hubzein@gmail.com>",
+  "homepage": "https://github.com/marie-fourier/telegraf-query-parser",
   "license": "MIT",
   "dependencies": {
     "query-string": "^6.1.0"

@@ -21,7 +21,7 @@ bot.start(ctx => {
   ctx.reply(`You were invited by user ${ctx.query.id}`)
 })
 
-bot.startPolling()
+bot.startPolling() 
 ```
 
 *//TODO: Write examples of using query parser with inline keyboard*

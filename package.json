@@ -1,0 +1,19 @@
+{
+  "name": "telegraf-query-parser",
+  "description": "Query parser for telegraf.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "telegram bot",
+    "telegraf",
+    "bot framework",
+    "query",
+    "url",
+    "middleware"
+  ],
+  "author": "marie-fourier <hubzein@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^6.1.0"
+  }
+}
